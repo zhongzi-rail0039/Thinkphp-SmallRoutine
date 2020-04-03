@@ -39,14 +39,14 @@ ThinkPHP5.1对底层架构做了进一步的改进，减少依赖，其主要特
 composer create-project topthink/think tp
 ~~~
 
-- `5.1.5+` 版本以后，增加启动内置服务器指令
-
 启动服务
 
 ~~~
 cd tp
 php think run
 ~~~
+
+- `5.1.5+` 版本以后，增加启动内置服务器指令
 
 然后就可以在浏览器中访问
 
